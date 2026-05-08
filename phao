@@ -332,16 +332,16 @@
 ĐA:  Có chứng chỉ SSL (https://) 
 Câu 1: Các mô hình kinh doanh thương
 mại điện tử thực chất là:
-Đáp án: Sự nâng cấp các mô hình kinh
+---Đáp án: Sự nâng cấp các mô hình kinh
 doanh truyền thống và các mô hình kinh
 doanh hoàn toàn mới
 Câu 2: Các vấn đề chính được đề cập
 trong các nguồn luật điều chỉnh TMĐT
 gồm, ngoại trừ
-Đáp án: Vận đơn điện tử
+---Đáp án: Vận đơn điện tử
 Câu 3: website http://unstats.un.org là
 website cung cấp thông tin
-Đáp án: Niên giám thương mại
+---Đáp án: Niên giám thương mại
 Câu 4: Người mua/chủ thẻ, ngân hàng
 của người mua/ngân hàng phát hành
 thẻ, ngân hàng của người bán, người
@@ -349,31 +349,31 @@ bán/tổ chức chấp nhận thanh toán thẻ,
 tổ chức cung cấp dịch vụ thanh toán
 điện tử là các bên liên quan đến giao
 dịch thương mại điện tử nào?
-Đáp án: Mua hàng và thanh toán bằng
+---Đáp án: Mua hàng và thanh toán bằng
 thẻ tín dụng qua Internet
 Câu 5: Trong giao dịch thương mại quốc
 tế, với những hợp đồng có giá trị lớn, ví
 dụ trên 50.000 USD, các doanh nghiệp
 thường sử dụng hình thức thanh toán
 nào?
-Đáp án: Thư tín dụng
+---Đáp án: Thư tín dụng
 Câu 6: Tổ chức cung cấp thẻ thanh toán
 cho khách hàng cá nhân gọi là:
-Đáp án: Ngân hàng phát hành
+---Đáp án: Ngân hàng phát hành
 Câu 7: Trên góc độ người cung cấp hóa
 đơn điện tử, hãy chỉ ra đặc điểm
 KHÔNG phải lợi ích của hoạt động này.
-Đáp án: Giúp doanh nghiệp hiện diện trên
+---Đáp án: Giúp doanh nghiệp hiện diện trên
 toàn thế giới
 Câu 8: Chỉ ra đặc điểm nào thể hiện sự
 khác biệt giữa Trojan và Sâu máy tính:
 a. Khả năng tự nhân bản
 b. Khả năng sao chép dữ liệu
 c. Khả năng phá hủy dữ liệu
-Đáp án: d. Tất cả phương án
+---Đáp án: d. Tất cả phương án
 Câu 9: Chỉ ra đặc điểm Không phải là
 đặc điểm của tường lửa:
-Đáp án: b. Tường lửa thường cho chạy
+---Đáp án: b. Tường lửa thường cho chạy
 tất cả các phần mềm ứng dụng đi qua
 Câu 10: Chỉ ra các dịch vụ mà website
 Http://www.vnpt-ca.vn cung cấp cho
@@ -381,7 +381,7 @@ khách hàng:
 a. Chứng thư số
 b. Chữ kí số
 c. Ký số
-Đáp án: d. Tất cả các dịch vụ
+---Đáp án: d. Tất cả các dịch vụ
 Câu 11: Luật giao dịch điện tử của Việt
 Nam (Đ12) : Một thông điệp dữ liệu
 được xem là có giá trị như văn bản viết
@@ -389,10 +389,10 @@ nếu thông tin hàm chứa trong thông
 điệp dữ liệu đó có thể ……………. để
 tham chiếu khi cần thiết. Chọn một câu
 trả lời
-Đáp án: Truy cập và sử dụng được
+---Đáp án: Truy cập và sử dụng được
 Câu 12: Chỉ ra các yếu tố Không phải là
 các khía cạnh trong mã hóa thông tin:
-Đáp án: tính hiệu hiệu quả.
+---Đáp án: tính hiệu hiệu quả.
 Câu 14: Gửi một đoạn mã lệnh kèm theo
 thư điện tử để nó tự nhân bản và gửi
 đến tất cả các địa chỉ email trong danh
@@ -401,7 +401,7 @@ công gì? Choose one answer.
 a.DNS spoofing
 b.Buffer Overflow
 c.Virus
-Đáp án: d.Worm
+---Đáp án: d.Worm
 Câu 15: mô hình kinh doanh nào phù hợp
 với các giao dịch điện tử có 1 người bán
 và nhiều người mua
