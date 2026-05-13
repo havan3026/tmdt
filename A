@@ -1,15 +1,15 @@
-"
+
 “ Ai? Làm gì? Khi nào? Ở đâu? “
 --- Lập kế hoạch kinh doanh
 “ Chọn phân đoạn hẹp của thị trường, tạo chất lượng tốt nhất, tốc độ nhanh nhất và giá cả tốt nhất cho riêng thị trường đó “ là chiến lược nào?
 ---ĐA: Thị trường ngách
-“ Dữ liệu? Lý do? Mạng? Sự kiện và thời điểm? Tiến trình? “ là của bản kế hoạch nào?
+“ Dữ liêu? Lý do? Mạng? Sự kiện và thời điểm? Tiến trình? “ là của bản kế hoạch nào?
 --- Lập kế hoạch HTTT
 “ Khuyến khích sự trung thành của khách hàng hay nhà cung cấp như tặng các danh hiệu: khách hàng kim cương, nhà cung cấp vàng, đối tác chiến lược “ là chiến lược cạnh tranh gì?
 ---ĐA: Là mở rộng năng lực sản xuất,... đa dạng hóa sản phẩm mới
 “ Lợi thế của người đi đầu “ là của chiến lược cạnh tranh nào sau đây?
----ĐA: Chiến lược thời giaN
-“Chọn phân đoạn hẹp của thị trường, tạo chát lượng tốt nhất, tốc độ nhanh nhất và
+---ĐA: Chiến lược thời gian
+“Chọn phân đoạn hẹp của thị trường, tạo chất lượng tốt nhất, tốc độ nhanh nhất và
 giá cả tốt nhất cho riêng thị trường đó” là chiến lược cạnh tranh nào sau đây?
 --- THỊ TRƯỜNG NGÁCH
 “Khuyến khích sự trung thành của khách hàng hay nhà cung cấp như tặng các danh
@@ -18,21 +18,22 @@ cạnh tranh nào sau đây?
 --- Kiềm giữ khách hàng
 “Lợi thế của người đi đầu” là chiến lược cạnh tranh nào sau đây?
 --- Chiến lược thời gian
+
 SỐ ###
 4 bước của Earl
 1. Mục tiêu
 2. CSF
 3. Phân rã quy trình kinh doanh
 4. HTTT, IT
+
 4 bước của phương pháp Earl bao gồm:
 --- (1) Xác định mục tiêu công ty: (2) Xác định các CSF; (3) Phân rã các quy trình kinh doanh chính; (4) Xác định các HTTT và CNTT.
+
 AAA ###
 Ai là người chịu trách nhiệm “Dự báo xu hướng công nghệ, đánh giá và thử nghiệm những công nghệ mới” trong tổ chức, doanh nghiệp?
 --- Người quản trị những công nghệ mới (Manager of Emerging Technologies)
 Ai là người chịu trách nhiệm “Điều phối các công việc liên quan tới lập trình ứng dụng” trong tổ chức, doanh nghiệp?
 --- Người quản trị lập trình (Programming Man)
-Ai là người chịu trách nhiệm “Điều phối các công việc liên quan tới lập trình ứng dụng” trong tổ chức, doanh nghiệp?
-==. Người quản trị lập trình (Programming Manager)
 Ai là người chịu trách nhiệm “Điều phối và quản lý mạng dữ liệu và mạng tiếng nói” trong tổ chức, doanh nghiệp?
 ---ĐA: Người quản trị viễn thông (Telecommunications Manager)
 Ai là người chịu trách nhiệm “Điều phối việc trợ giúp bảo hành toàn bộ hệ thống phần mềm gồm: hệ điều hành, chương trình tiện ích, ngôn ngữ lập trình, ...” trong tổ chức, doanh nghiệp?
@@ -40,7 +41,7 @@ Ai là người chịu trách nhiệm “Điều phối việc trợ giúp bảo
 Ai là người chịu trách nhiệm “Giám sát và phát triển các chuẩn và các thủ tục để đảm bảo HTTT trong tổ chức hoạt động chính xác và có chất lượng” trong tổ chức, doanh nghiệp?
 ---ĐA: Người quản trị bảo đảm chất lượng (Quality Assurance Manager)
 Ai là người chịu trách nhiệm “Lập kế hoạch chiến lược sử dụng các nguồn lực thông tin trên toàn tổ chức” trong tổ chức, doanh nghiệp?
-***ĐA: Giám đốc thông tin (CIO
+—ĐA: Giám đốc thông tin (CIO)
 Ai là người chịu trách nhiệm "Oun lý các HTTT trong toàn tổ chức và quản lý vận
 hành lượng ngày” trong tổ chức, doanh nghiệp?
 --- Giám đốc HTTT (IS Director)
@@ -48,14 +49,10 @@ Ai là người chịu trách nhiệm “Phát triển kiến trúc mạng, ph�
 --- Người quản trị kế hoạch HTTT (IS Planning Manager)
 Ai là người chịu trách nhiệm “Quản trị một dự án HTTT cụ thể" trong tổ chức, doanh nghiệp?
 --- Người quản trị dự án (Project Manager)
-Ai là người chịu trách nhiệm “Quản trị một dự án HTTT cụ thể” trong tổ chức, doanh nghiệp?
---- Người quản trị dự án (Project Manager)
 Ai là người chịu trách nhiệm “Quản trị một HTTT cụ thể đang hoạt động” trong tổ chức, doanh nghiệp?
 --- Người quản trị hệ thống (Systems Manager)
 Ai là người chịu trách nhiệm “Quản trị mức tác nghiệp hàng ngày tất cả các mặt của HTTT trong các bộ phận chuyên biệt, nhà máy, các chức năng kinh doanh hoặc các đơn vị sản xuất” trong tổ chức, doanh nghiệp?
 --- Người quản trị tài khoản (Account Executive)
-Ai là người chịu trách nhiệm “Quản trị mức tác nghiệp hàng ngày tất cả các mặt của HTTT trong các bộ phận chuyên biệt, nhà máy, các chức năng kinh doanh hoặc các đơn vị sản xuất” trong tổ chức, doanh nghiệp?
----ĐA: Người quản trị tài khoản (Account Executive)
 Ai là người chịu trách nhiệm “Quản trị và điều phối mọi dự án bảo trì HTTT” trong tổ chức, doanh nghiệp?
 --- Người quản trị bảo trì (Maintenance Manager)
 Ai là người chịu trách nhiệm “Quản trị và điều phối tất cả các dự án HTTT mới” trong tổ chức, doanh nghiệp?
@@ -66,62 +63,58 @@ Amazon.com là một ví dụ về
 --- B2C
 An toàn dữ liệu có thể có thể hiểu là
 --- Ngăn chặn các truy cập trái phép , sai quy định từ trong ra hoặc từ ngoài vào
+
 B ###
 B2C
 --- Business to Consumers: Doanh nghiệp với người tiêu dùng
-Ba cấp quản lí chính trong một hệ thống doanh nghiệp được phân cấp
---- Quản lí cấp cao, quản lí cấp trung, và quản lí tác nghiệp ( quản
-lí hoạt động )
+Ba cấp quản lý chính trong một hệ thống doanh nghiệp được phân cấp
+--- Quản lý cấp cao, quản lý cấp trung, và quản lý tác nghiệp ( quản lý hoạt động )
 Ba hoạt động trong một hệ thống thông tin cung cấp cách tạo ra thông tin
 sử dụng cho hoạt động điều hành là:
 --- Đầu vào, xử lý và đầu ra
 Bằng cách nào các doanh nghiệp tăng cường quản trị quy trình kinh doanh?
 ---ĐA: Bắt đầu từ lãnh đạo cao nhất - Mọi người đều phải tham gia - Rõ mục tiêu và hiểu biết về quy trình hiện thời - Thay đổi là liên tục - Thay đổi sẽ không được duy trì nếu thiếu sự nỗ lực và thúc ép định k - Cải tiến là liên tục
-Bốn chiến lực chung để đối phó với lực lượng cạnh tranh có khả thi bằng cách sử dụng CNTT là
---- Dẫn đầu về chi phí thấp, khác biệt hóa sản phẩm, tập trung vào phân khúc thị
-trường , và khách hàng và nhà cung cấp thân thiện
+Bốn chiến lược chung để đối phó với lực lượng cạnh tranh có khả thi bằng cách sử dụng CNTT là
+--- Dẫn đầu về chi phí thấp, khác biệt hóa sản phẩm, tập trung vào phân khúc thị trường , và khách hàng và nhà cung cấp thân thiện
 Bốn loại thay đổi cơ cấu tổ chức kích hoạt bằng CNTT, theo thứ tự rủi ro ít nhất đến nhiều nhất là:
 --- HỢP LÝ HÓA, TỰ ĐỘNG HÓA, TÁI CẤU TRÚC, THIÊT KẾ LẠI
 BSP --- Business System Planning
 BSP cung cấp cách tiếp cận nào?
 --- Có cấu trúc
 BSP gồm 4 bước quy trình:
-1. Tài liệu cần thiết
-2. Quy trình kinh doanh
-3. Hỗ trợ quy trình kinh doanh
-4. Kiến trúc thông tin
+    1. Tài liệu cần thiết
+    2. Quy trình kinh doanh
+    3. Hỗ trợ quy trình kinh doanh
+    4. Kiến trúc thông tin
 Bước nào sau đây không phải của phương pháp Earl?
 --- Xác định kiến trúc thông tin
+
 C ###
+Các mục tiêu đi kèm với hệ thống mới là:
+---ĐA: Tiến độ, Chi phí, Công nghệ, Chính sách"
 Các bước lập kế hoạch phát triển nghề nghiệp?
 ---ĐA: 1. Đặt mục tiêu lớn và chia để trị.
-2. Bổ sung các kỹ năng cần thiết cho sự nghiệp.
-3. Không mừng quá sớm với thành công và nản chí trước thất bại.
-4. Luôn cố gắng để đạt mục tiêu.
+           2. Bổ sung các kỹ năng cần thiết cho sự nghiệp.
+           3. Không mừng quá sớm với thành công và nản chí trước thất bại.
+           4. Luôn cố gắng để đạt mục tiêu.
 Các câu hỏi về: “Dữ liệu? Lý do? Mạng? Sự kiện và thời điểm? Tiến trình?” là của bản kế hoạch nào?
 ---ĐA: Kế hoạch HTTT
 Các câu hỏi về: “Làm gì? Lý do? Ai? Ở đâu? Khi nào? Như thế nào?” là của bản kế hoạch nào?
 ---ĐA: KẾ HOẠCH KINH DOANH
-Các câu hỏi về: “Làm gì? Lý do? Ai? Ở đâu? Khi nào? Như thế nào?” là của bản kế hoạch nào?
----ĐA: KẾ HOẠCH KINH DOANH
-Các chi phí phát sinh bởi một công ty cho việc giám soát và động viên nhà quản lí để nhà quản lí cống hiến hết sức lực cho công ty được gọi là
+Các chi phí phát sinh bởi một công ty cho việc giám sát và động viên nhà quản lý để nhà quản lý cống hiến hết sức lực cho công ty được gọi là
 --- CHI PHÍ ĐẠI DIỆN
 Các chi phí phát sinh bởi một khách hàng hoặc công ty cho tiêu tốn thời gian và nguồn lực khi thay đổi từ một nhà cung cấp hoặc một hệ thống này sang một nhà cung cấp cạnh tranh hoặc một hệ thống cạnh tranh khác được gọi là:
 --- Chi phí chuyển đổi
 Các chiến lực cạnh tranh mà O’brien và Marakas đưa ra là
-***ĐA: Chi phí thấp, khác biệt hóa sản phẩm, đổi mới, tăng trưởng và liên minh
+--- ĐA: Chi phí thấp, khác biệt hóa sản phẩm, đổi mới, tăng trưởng và liên minh
 Các chiến lược cạnh tranh của O’brien và Marakas
 --- 5 chiến lược
 Các chiến lược cạnh tranh do Neuman, Wiseman và Frezel đã đưa bao gồm: Rào
 cản, Định hướng khách hàng, Hiệu quả tác nghiệp, Kiềm giữ khách hàng, Thời
 gian sớm, Tăng phí chuyển đổi và chiến lược nào sau đây?
 --- Thị trường ngách
-Các chiến lược cạnh tranh do Neuman, Wiseman và Frezel đã đưa bao gồm: Rào cản, Định hướng khách hàng, Hiệu quả tác nghiệp, Kiềm giữ khách hàng, thời gian sớm, Tăng…chuyển đổi và chiến lược nào sau đây?
----ĐA: Thị trường ngách
 Các chiến lược cạnh tranh mà các tác giả Neuman, Wiseman và Frezel đưa thêm ra trên cơ sở các chiến lược cạnh tranh của O’brien & Marakas là:
 --- Rào cản, Định hướng khách hàng, Thị trường ngách, Hiệu quả tác nghiệp, Kiềm giữ khách hàng, Thời gian sớm, Tăng phí chuyển đổi.
-Các chiến lược cạnh tranh mà Obrien & Marakas đưa ra là:
---- D. Chi phí thấp, Khác biệt hóa sản phẩm, Đổi mới, Tăng trưởng và Liên minh.
 Các chiến lược cạnh tranh O'brien & Marakas đưa ra bao gồm: Chi phí thấp, Đổi mới, Tăng trưởng, Liên minh và chiến lược nào sau đây?
 --- KHÁC BIỆT HÓA SẢN PHẨM
 Các chức danh “Quản trị bảo đảm chất lượng; Quản trị trang Web; Quản trị viễn thông; Quản trị tài khoản” thuộc nhóm chức danh nào sau đây?
@@ -140,62 +133,32 @@ Các dự án CNTT trong doanh nghiệp được chia thành những cấp nào 
 --ĐA: (1) Cấp chức năng; (2) Cấp đơn vị chức năng và liên đơn vị chức năng; (3) Cấp toàn doanh nghiệp,
 Các hệ thống thông tin như: Quản lý kho tự động ( Inventory System ), hệ thống xử lý hoàn chỉnh ( E - Fulfilment ), quản lý phân phối ( Distribution Management ), hệ thống xếp và giao hàng ( Shipping System ) phục vụ cho hoạt động nào trong chuỗi giá trị?
 ---ĐA: Hoạt động hậu cần đầu ra
-Các hệ thống thông tin như: quản lý kho tự động (Inventory System); hệ thống xử
-lý hoàn chỉnh (E-Fulfilment); quản lý phân phối (Distribution Management system), hệ thống xếp và giao hàng (Shipping System) phục vụ cho hoạt động nào trong chuỗi giá trị?
+Các hệ thống thông tin như: quản lý kho tự động (Inventory System); hệ thống xử lý hoàn chỉnh (E-Fulfilment); quản lý phân phối (Distribution Management system), hệ thống xếp và giao hàng (Shipping System) phục vụ cho hoạt động nào trong chuỗi giá trị?
 --- Hoạt động hậu cần đầu ra
-Các hệ thống thông tin như: quản lý kho tự động (Inventory System); hệ thống xử lý hoàn chỉnh (E-Fulfilment); quản lý phân phối (Distribution Management System), hệ thống xếp và giao hàng (Shipping System) phục vụ cho hoạt động nào trong chuỗi giá trị?
----ĐA: HOẠT ĐỘNG HẬU CẦN ĐƯA RA
 Các hệ thống thông tin tự động hóa phân xưởng ( Factory Floor Automation ) phục vụ cho hoạt động nào trong chuỗi giá trị?
 ---ĐA: Hoạt động tác nghiệp
-Các hệ thống thông tin tự động hóa phân xưởng (Factory Floor Automation) phục vụ cho hoạt động nào trong chuỗi giá trị?
---- Hoạt động tác nghiệp
-Các HTTT định giá sản phẩm (Product Pricing System), điểm bán hàng (Point-of- Sale), quản lý bán hàng (Sales Management System) phục vụ cho hoạt động nào trong chuỗi giá trị?
---- Hoạt động Marketing & Bán hàng
 Các HTTT định giá sản phẩm (Product Pricing System), điểm bán hàng (Point-of-Sale), quản lý bán hàng (Sales Management System) phục vụ cho hoạt động nào trong chuỗi giá trị?
-****ĐA: Hoạt động Marketing & Bán hàng
+---ĐA: Hoạt động Marketing & Bán hàng
 Các kỹ năng và tố chất cần thiết của nhân lực thông tin?
-***ĐA: Kỹ năng mềm - Kỹ năng làm việc nhóm - Kỹ năng ngoại ngữ - Kỹ năng tự học - Sức khỏe
+---ĐA: Kỹ năng mềm - Kỹ năng làm việc nhóm - Kỹ năng ngoại ngữ - Kỹ năng tự học - Sức khỏe
 Các kỹ thuật cho phương pháp Method/1 lập kế hoạch HTTT chiến lược không bao gồm
 --- Phân tích rủi ro ( nó gồm DFD, ma trận, phân rã )
 Các lĩnh vực góp phần cho cách tiếp cận hệ thống thông tin theo hướng
 --- Hoạt động nghiên cứu, khoa học quản lí , khoa học máy tính
 Các lĩnh vực góp phần cho cách tiếp cận hệ thống thông tin theo hướng hành vi là
 --- Tâm lý học, kinh tế học , xã hội học
-Các loại phần mềm được tạo ra và cập nhật bởi một cộng đồng trên toàn thế
-giới của các lập trình viên mang tính có sẵn và miễn phí được gọi là
+Các loại phần mềm được tạo ra và cập nhật bởi một cộng đồng trên toàn thế giới của các lập trình viên mang tính có sẵn và miễn phí được gọi là
 --- Phần mềm mã nguồn mở
 Các mã sinh viên và tên sinh viên là ví dụ về loại nguồn lực thông tin nào
-***ĐA: Dữ liệu
+---ĐA: Dữ liệu
 Các mức tư duy do Lorin Anderson đề xuất (1999)
----ĐA: 1. Nhớ/Biết
-2. Hiểu
-3. Vận dụng
-4. Phân tích
-5. Đánh giá
-6. Sáng tạo
+---ĐA: 1. Nhớ/Biết 2. Hiểu 3. Vận dụng 4. Phân tích 5. Đánh giá 6. Sáng tạo
 Các nhân tố chính của kiến trúc HTTT bao gồm:
 ---ĐA. Mục tiêu kinh doanh; Mô hình kinh doanh; Mô hình HTTT; Mô hình công nghệ; Xác định công nghệ; HTTT.
 Các nhân tố chính ISA?
-1. Mục tiêu
-2. Mô hình kinh doanh
-3. Mô hình HTTT
-4. Mô hình công nghệ
-5. Xác định công nghệ
-6. HTTT
-Các nhiệm vụ chính cần thực hiện trong phân tích vấn đề của doanh nghiệp
-khi thực hiện tái thiết quy trình kinh doanh dựa trên CNTT?
---- Nghiên cứu miền vấn đề, 2. Phân tích vấn đề và cơ hội, 3. Phân tích quy trình
-kinh doanh ,4. Thiết lập các mục tiêu tăng cường của HTTT cho QTKD, 5. Cập
-nhật kế hoạch dự án, 6. Trình bày những phát hiện và khuyến nghị
-Các nhiệm vụ chính cần thực hiện trong phân tích vấn đề của doanh nghiệp khi thực
-hiện tái thiết quy trình kinh doanh dựa trên CNTT?
----ĐA:
-1. Nghiên cứu miền vấn đề
-2. Phân tích vấn đề và cơ hội
-3. Phân tích quy trình kinh doanh
-4. Thiết lập các mục tiêu tăng cường của HTTT cho QTKD
-5. Cập nhật kế hoạch dự án
-6. Trình bày những phát hiện và khuyến nghị
+---1. Mục tiêu 2. Mô hình kinh doanh 3. Mô hình HTTT 4. Mô hình công nghệ 5. Xác định công nghệ 6. HTTT
+Các nhiệm vụ chính cần thực hiện trong phân tích vấn đề của doanh nghiệp khi thực hiện tái thiết quy trình kinh doanh dựa trên CNTT?
+--- Nghiên cứu miền vấn đề, 2. Phân tích vấn đề và cơ hội, 3. Phân tích quy trình kinh doanh ,4. Thiết lập các mục tiêu tăng cường của HTTT cho QTKD, 5. Cập nhật kế hoạch dự án, 6. Trình bày những phát hiện và khuyến nghị
 Các nhiệm vụ chính cần thực hiện trong phân tích vấn đề của doanh nghiệp khi thực hiện tái thiết quy trình kinh doanh dựa trên CNTT?
 ---ĐA: 1. Nghiên cứu miền vấn đề, 2 Phân tích vấn đề và cơ hội, 3. Phân tích quy trình kinh doanh 4. Thiết lập các mục tiêu tăng cường của HTTT cho QTKD 5. Cập nhật kế hoạch dự án, 6. Trình bày những phát hiện và khuyến nghị
 Các nỗ lực cần thiết để tìm kiếm một sản phẩm phù hợp được gọi là
@@ -205,12 +168,10 @@ Các pha chính tham gia trong chu trình quản trị tri thức bao gồm:
 Các quy trình kinh doanh là tập hợp các:
 --- CÔNG VIỆC
 Các quyền truy cập tối đa nên dành cho user là
-*** ĐA:Đủ để thực hiện các công việc theo chức năng nhiệm vụ được giao
-Các sản phẩm đầu ra của HTTT và các ứng dụng trên HTTT chủ yếu cung cấp cho
-nhóm người nào sau đây sử dụng?
+--- ĐA: Đủ để thực hiện các công việc theo chức năng nhiệm vụ được giao
+Các sản phẩm đầu ra của HTTT và các ứng dụng trên HTTT chủ yếu cung cấp cho nhóm người nào sau đây sử dụng?
 ---ĐA: C.Người sử dụng cuối (End User).
-Các tổ chức và các quy trình của một công ty phân phối và cung cấp
-sản phẩm cho khách hàng cuối cùng là
+Các tổ chức và các quy trình của một công ty phân phối và cung cấp sản phẩm cho khách hàng cuối cùng là
 --- Phần hạ lưu của chuỗi cung ứng
 Các trang mạng xã hội như Zalo, Facebook, Twitter, Instagram,... trợ giúp đắc lực cho khâu nào của chuỗi giá trị?
 ---ĐA: Dịch vụ và trợ giúp hậu mãi
@@ -227,12 +188,11 @@ Cạnh tranh thời gian
 CAS: Tập giả định quan trọng
 --- Critical Assumption Set
 Cấp đơn vị chức năng và liên kết đơn vị chức năng là đầu tư
-== Danh mục tài chính, khách hàng, nhân sự, vận hành
+--- Danh mục tài chính, khách hàng, nhân sự, vận hành
 CDS - Tệp quyết định quan trọng
 --- Critical Decision Set
 Chi phí cho thông tin
----ĐA: Chi phí phần cứng, phần mềm, cơ sở dữ liệu, truyền thông 2.Chi phí huấn luyện, bảo hiểm 3.Chi phí quy trình kinh doanh 4.Chi phí rủi ro
-5.Chi phí không gian và điện nước
+---ĐA: Chi phí phần cứng, phần mềm, cơ sở dữ liệu, truyền thông 2.Chi phí huấn luyện, bảo hiểm 3.Chi phí quy trình kinh doanh 4.Chi phí rủi ro 5.Chi phí không gian và điện nước
 Chi phí của đầu tư CNTT bao gồm những khoản mục nào sau đây?
 ---ĐA: Chi phí cho các yếu tố phần cứng, phần mềm, cơ sở dữ liệu, truyền thông; Chi phí đào tạo huấn luyện, bảo hiểm; Chi phí thay đổi quy trình kinh doanh, thay đổi tổ chức; Chi phỉ rủi ro; Chi phí sử dụng không gian, điện nước.
 Chi phí thấp, khác biệt hóa sản phẩm là chiến lược cạnh tranh của tác giả nào dưới đây?
@@ -251,30 +211,18 @@ Chiến lược cạnh tranh định hướng khách hàng sử dụng HTTT nào
 ---ĐA: Hệ thống thông tin CRM (Customer Relationship Management )
 Chiến lược cạnh tranh thời gian sử dụng HTTT nào sau đây?
 --- Hệ thống thông tin Just-In-Time
-Chiến lược cạnh tranh thời gian sử dụng HTTT nào sau đây?
----ĐA: Hệ thống thông tin Just - In - Time
 Chiến lược định hướng khách hàng được thực hiện như thế nào?
 --- Tập trung vào việc làm cho khách hàng hạnh phúc, coi khách hàng là vua.
-Chiến lược định hướng khách hàng được thực hiện như thế nào?
----ĐA: Tập trung vào việc làm cho khách hàng hạnh phúc, coi khách hàng là vua
 Chiến lược kiềm giữ khách hàng (Giữ chân khách hàng) được thực hiện như thế nào?
 --- Khuyến khích sự trung thành của khách hàng hay nhà cung cấp như tặng các danh hiệu: khách hàng kim cương, nhà cung cấp vàng, đối tác chiến lược.
-Chiến lược kiềm giữ khách hàng (Giữ chân khách hàng) được thực hiện như thế nào?
----ĐA: Khuyến khích sự trung thành của khách hàng hay nhà cung cấp như tặng các danh hiệu: khách hàng kim cương, nhà cung cấp vàng, đối tác chiến lược.
 Chiến lược liên minh
 --- Tạo ra, tăng quan hệ với đối tác
 Chiến lược tăng trưởng là gì?
---- Là mở rộng năng lực sản xuất công ty, mở rộng thị trường toàn cầu, đa dạng hóa
-sản phẩm hoặc dịch vụ mói.
-Chiến lược tăng trưởng là gì?
----ĐA: A.Là mở rộng năng lực sản xuất công ty, mở rộng thị trường toàn cầu, đa dạng hóa sản phẩm hoặc dịch vụ mới.
+--- Là mở rộng năng lực sản xuất công ty, mở rộng thị trường toàn cầu, đa dạng hóa sản phẩm hoặc dịch vụ mới.
 Chiến lược thị trường ngách là gì?
----ĐA: Là lựa chọn phân đoạn hẹp của thị trường, tạo chất lượng tốt nhất, tốc độ nhanh nhất và giá cả tốt nhất cho riêng thị trường đó
-Chiến lược thị trường ngách là gì?
---- Là chọn phân đoạn hẹp của thị trường, tạo chất lượng tốt nhất, tốc độ nhanh
-nhất và giá cả tốt nhất cho riêng thị trường đó
+--- Là chọn phân đoạn hẹp của thị trường, tạo chất lượng tốt nhất, tốc độ nhanh nhất và giá cả tốt nhất cho riêng thị trường đó
 Chính sách an toàn thông tin là gì
-***ĐA: Là một VĂN BẢN VIẾT, trong đó quy định rõ những gì là được phép và những gì là không được phép đối với việc sử dụng thông tin trong tổ chức, những hình thức xử lý tương ứng nếu vi phạm các điều khoản trong văn bản này.
+---ĐA: Là một VĂN BẢN VIẾT, trong đó quy định rõ những gì là được phép và những gì là không được phép đối với việc sử dụng thông tin trong tổ chức, những hình thức xử lý tương ứng nếu vi phạm các điều khoản trong văn bản này.
 Chọn khái niệm đúng về Lập kế hoạch HT IT chiến lược
 ---ĐA: Là quá trình xác định một danh mục đầu tư các ứng dụng dựa trên nền tảng máy tính để giúp tổ chức đạt được mục tiêu kinh doanh.
 Chọn từ tiếng Anh chỉ Tính chính xác của thông tin
@@ -300,9 +248,6 @@ Có bao nhiêu chiến lược cạnh tranh do cả O’brien & Marakas và Neum
 Có nhiều phương pháp để lập kế hoạch HIII chiến lược, một trong các phương
 pháp đó là CSF. Hỏi CSF viết tắt của từ Tiếng Anh nào sau đây?
 ---ĐA: Critical Success Factors
-Có nhiều phương pháp để lập kế hoạch HIIT chiến lược, một trong các phương
-pháp đó là BSP. Hỏi BSP viết tắt của từ Tiếng Anh nào sau đây?
----ĐA: Business System Planing
 Có nhiều phương pháp để lập kế hoạch HTTT chiến lược, một trong các phương pháp đó là BSP. Hỏi BSP viết tắt của từ Tiếng Anh nào sau đây?
 ---ĐA: Business System Planning
 Có tối đa bao nhiêu yếu tố đảm bảo thành công?
@@ -321,15 +266,12 @@ CRM
 --- Customer Relationship Management
 CRM
 --- Hệ thống quản lý quan hệ khách hàng/ Định hướng khách hàng
-CSF --- Critical Success Factors: yếu tố đảm bảo thành công
-CSF (các yếu tố đảm bảo thành công) cung cấp văn cảnh lập kế hoạch theo mấy lĩnh
-vực?
----ĐA: C.3 lĩnh vực
+CSF 
+--- Critical Success Factors: yếu tố đảm bảo thành công
 CSF (các yếu tố đảm bảo thành công) cung cấp văn cảnh lập kế hoạch theo mấy lĩnh vực?
 ---ĐA: 3 lĩnh vực
 CSF (các yếu tố đảm bảo thành công) phụ thuộc thời gian nghĩa là:
----ĐA: Theo thời gian các sự kiện mới này sinh có thể dẫn đến các thay đổi lớn trong
-các CSF.
+---ĐA: Theo thời gian các sự kiện mới này sinh có thể dẫn đến các thay đổi lớn trong các CSF.
 CSF cung cấp văn cảnh lập kế hoạch theo mấy lĩnh vực
 --- 3 lĩnh vực: thông tin, quyết định, giả định
 CSF giúp nhà quản lý xác định điều gì?
@@ -345,7 +287,8 @@ CSF phụ thuộc thời gian nghĩa là
 CSF(các yếu tố đảm bảo thành công) cung cấp văn cảnh lập kế hoạch theo mấy
 lĩnh vực?
 ---ĐA: 3 LĨNH VỰC
-Đ
+
+###Đ
 Ðầu tư dự án CNTT trong doanh nghiệp ở cấp chức năng là đầu tư vào danh mục sản phẩm nào sau đây?
 ---ĐA: Ðầu tư cho máy tính cá nhân nối mạng Internet, các phần mềm tin học văn phòng, các phần mềm phân tích dữ liệu số, phần mềm thiết kế sản phẩm, lập kế hoạch.
 Dự án CNTT cấp chức năng thực hiện nhiệm vụ
@@ -360,35 +303,30 @@ Dự án CNTT ở cấp chức năng thực hiện những nhiệm vụ nào sau
 --- Chứa các liên kết một:nhiều ; nhiều : nhiều
 Đặc trưng của tri thức?
 ---ĐA: Việc sử dụng tri thức không làm giảm đi giá trị của chúng; Sự chuyển giao tri thức không làm tri thức mất đi; Tri thức rất phong phú nhưng khả năng sử dụng lại rất hạn chế
+Đâu là nhược điểm của các dịch vụ thư điện tử trên web (webmail)
+---ĐA: Tổng dung lượng tệp tin bị giới hạn 
 Đầu tư cấp CHỨC NĂNG là đầu tư
 ---ĐA: Đầu tư cho các máy tính cá nhân nối mạng Internet, phần mềm tin học văn phòng, phần mềm phân tích dữ liệu số, phần mềm thiết kế sản phẩm, lập kế hoạch
-Đầu tư cho các hệ thống thông tin quản lý tài chính, quản lý khách hàng, quản lý
-nhân lực, quản trị thiết bị, quản trị vận hành, ... là đầu tư cho dự án CNTT ở cấp
-nào sau đây?
---ĐA: Cấp đơn vị chức năng và liên kết đơn vị cấp chức năng.
+Đầu tư cho các hệ thống thông tin quản lý tài chính, quản lý khách hàng, quản lý nhân lực, quản trị thiết bị, quản trị vận hành, ... là đầu tư cho dự án CNTT ở cấp nào sau đây?
+---ĐA: Cấp đơn vị chức năng và liên kết đơn vị cấp chức năng.
 Đầu tư cho CNTT ở doanh nghiệp tác động ntn đối với các quy trình kinh doanh
-***ĐA: Nâng cao hiệu suất của các quy trình kinh doanh
-Đầu tư cho hệ thống thông tin quản lý tổng thể doanh nghiệp (ERP), hạ tầng CNTT
-và truyền thông là đầu tư cho dự án CNTT ở cấp nào sau đây?
----ĐA: CẤP DOANH NGHIỆP
-Đầu từ cho mạng LAN với tư cách là một mạng intranet hoặc extranet là đầu tư cho dự án CNTT cấp nào?
---- Cấp đơn vị chức năng và liên kết đơn vị chức năng
+--- ĐA: Nâng cao hiệu suất của các quy trình kinh doanh
+Đầu tư cho hệ thống thông tin quản lý tổng thể doanh nghiệp (ERP), hạ tầng CNTT và truyền thông là đầu tư cho dự án CNTT ở cấp nào sau đây?
+--- ĐA: CẤP DOANH NGHIỆP
 Đầu từ cho mạng LAN với tư cách là một mạng intranet hoặc extranet là đầu tư cho dự án CNTT cấp nào?
 --- Cấp đơn vị chức năng và liên kết đơn vị chức năng
 Đầu tư cho máy tính cá nhân nối mạng Internet, các phần mềm tin học văn phòng, các phần mềm phân tích dữ liệu số, phần mềm thiết kế sản phẩm, lập kế hoạch là đầu tư cho dự án CNTT ở cấp nào sau đây?
 ---ĐA: cấp chức năng
-Đầu tư cho máy tính cá nhân nối mạng Internet, các phần mềm tin học văn phòng, các phần mềm phân tích dữ liệu số, phần mềm thiết kế sản phẩm, lập kế hoạch là đầu tư cho dự án CNTT ở cấp nào sau đây?
-***ĐA: Cấp chức năng
 Đầu tư dự án CNTT ở doanh nghiệp ở cấp TOÀN DOANH NGHIỆP?
 --- Đầu tư cho HTTT tổng thể doanh nghiệp, hạ tầng CNTT…
 Đầu tư dự án CNTT trong doanh nghiệp ở cấp chức năng là đầu tư vào danh mục sản phẩm nào sau đây?
---ĐA: Đầu tư cho máy tính cá nhân nối mạng Internet, các phần mềm tin học văn phòng, các phần mềm phân tích dữ liệu số, phần mềm thiết kế sản phẩm, lập kế hoạch.
+--- ĐA: Đầu tư cho máy tính cá nhân nối mạng Internet, các phần mềm tin học văn phòng, các phần mềm phân tích dữ liệu số, phần mềm thiết kế sản phẩm, lập kế hoạch.
 Đầu tư dự án CNTT trong doanh nghiệp ở cấp đơn vị chức năng và liên kết đơn vị ở cấp chức năng là đầu tư vào danh mục sản phẩm nào sau đây?
 ---đa: Đầu tư cho các hệ thống thông tin quản lý tài chính, quản lý khách hàng, quản lý nhân lực, quản trị thiết bị, quản trị vận hành
 Đầu tư dự án CNTT trong doanh nghiệp ở cấp toàn doanh nghiệp là đầu tư vào danh mục sản phẩm nào sau đây?
---ĐA: Đầu tư cho hệ thống thông tin quản lý tổng thể doanh nghiệp (ERP), hạ tầng CNTT và truyền thông, kiến trúc thông tin quản lý cấp doanh nghiệp.
+--- ĐA: Đầu tư cho hệ thống thông tin quản lý tổng thể doanh nghiệp (ERP), hạ tầng CNTT và truyền thông, kiến trúc thông tin quản lý cấp doanh nghiệp.
 Đầu tư hệ thống mạng LAN với tư cách một mạng Intranet hoặc mạng Extranet là đầu tư cho dự án CNTT ở cấp nào sau đây?
---ĐA: Cấp đơn vị chức năng và liên kết đơn vị cấp chức năng.
+--- ĐA: Cấp đơn vị chức năng và liên kết đơn vị cấp chức năng.
 Đầu tư về an toàn an ninh, độ sẵn sàng của cntt
 --- CẤP TOÀN DOANH NGHIỆP
 Đầu tư về an toàn, an ninh, độ sẵn sàng của các hệ thống thông tin là đầu tư cho dự án CNTT ở cấp nào sau đây?
@@ -405,8 +343,7 @@ và truyền thông là đầu tư cho dự án CNTT ở cấp nào sau đây?
 ---ĐA: Xác định Chi phí bỏ ra và Phần bù lại được chuyển từ kết quả kinh doanh sang.
 Điểm khác biệt về Cách thức tiếp cận giữa phương pháp 6 Sigma và TQM là:
 ---ĐA: -6 Sigma: Ưu tiên giải quyết những vấn đề cụ thể được chọn lựa theo mức độ ưu tiên có tính chiến lược của công ty và những vấn đề đang gây nên những khuyết tật nổi trội
-- TQM: Áp dụng một hệ thống chỉ tập trung vào vấn đề chất lượng bao quát cho tất cả các
-quy trình kinh doanh của công ty
+---TQM: Áp dụng một hệ thống chỉ tập trung vào vấn đề chất lượng bao quát cho tất cả các quy trình kinh doanh của công ty
 Điều gì sau đây là trở ngại lớn nhất trong việc giúp sự hợp tác giữa các nhân viên của các công ty khác nhau ở khoảng cách xa nhau?
 --- Văn hóa doanh nghiệp
 Điều nào sau đây không phải là một công cụ và kỹ thuật để an toàn thông tin
@@ -425,8 +362,6 @@ quy trình kinh doanh của công ty
 --- Sự định vị
 Định hướng khách hàng
 --- tập trung vào việc làm cho khách hàng hạnh phúc, coi khách hàng là vua
-Định hướng khách hàng, thị trường ngách là chiến lược cạnh tranh của
---- Neuman, Wiseman, Frezel
 Định hướng khách hàng, Thị trường ngách là chiến lược cạnh tranh của tác giả nào
 sau đây?
 --- Neuman, Wiseman và Frezel
@@ -436,7 +371,8 @@ sau đây?
 ---ĐA: Dữ liệu và thông tin là hàng hóa nội dung số. Có nhiều cấp độ mua: chỉ đọc, có thể tải về ở một số định dạng tệp khác nhau. Có giới hạn hoặc không có giới hạn thời gian. 2. Các dữ liệu, thông tin kinh tế có nhiều cách thức mua bán khác nhau.
 Đối với nguồn lực dữ liệu và thông tin, khi mua sắm cần xác định rõ điều gì?
 ---ĐA: 1. Dữ liệu và thông tin là hàng hoá nội dung số. Có nhiều cấp độ mua: chỉ đọc, có thể tải về ở một số định dạng tệp khác nhau. Có giới hạn hoặc không có giới hạn thời gian. 2. Các dữ liệu, thông tin kinh tế có nhiều cách thức mua bán khác nhau.
-E
+
+E ###
 EDI
 --- Electronic Data Interchange - Trao đổi dữ liệu điện tử
 ERP ( Enterprise Resource Planning - Hoạch định nguồn lực doanh nghiệp ) là đầu tư cấp
@@ -445,7 +381,8 @@ G2B
 --- Cơ quan nhà nước với doanh nghiệp --- Government to Business
 G2E, chữ E viết tắt của
 --- Employees
-G
+
+G ###
 Giá trị của CNTT bao gồm:
 ---ĐA: 1. Khả năng thu hồi vốn ROI Return On Investment 2.Chiến lược 3. Lợi thế cạnh tranh 4.Đạt được chiến lược 5.Cung cấp thông tin trong quản lý 6.Đảm bảo cơ sở hạ tầng thông tin
 Giá trị của đầu tư CNTT bao gồm những khoản mục nào sau đây?
@@ -461,7 +398,7 @@ Giai đoạn “ Lên kế hoạch cho dự án “ trong Quy trình quản lý 
 Giai đoạn “ Triển khai dự án “ trong Quy trình quản lý dự án phần mềm là:
 ----ĐA: Giai đoạn những người được phân công trách nhiệm dự án thực hiện hoàn thành các công việc theo kế hoạch đã lập
 Giai đoạn bắt đầu sự án trong quy trình quản lý dự án phần mềm là
-***ĐA: Giai đoạn xác định các thông tin của một dự án mới bao gồm: Xác định mục đích của dự án, mức độ cần thiết của dự án, phân tích các yêu cầu cần đạt được trong dự án, phân công trách nhiệm cho các nhân viên và bộ phận triển khai.
+--- ĐA: Giai đoạn xác định các thông tin của một dự án mới bao gồm: Xác định mục đích của dự án, mức độ cần thiết của dự án, phân tích các yêu cầu cần đạt được trong dự án, phân công trách nhiệm cho các nhân viên và bộ phận triển khai.
 Giai đoạn Lên kế hoạch cho dự án trong Quy trình quản lý dự án phần mềm là:
 ---ĐA: Giai đoạn yêu cầu thiết lập phạm vi công việc của dự án, điều chỉnh lại mục tiêu và xác định đường đi tới mục tiêu đó
 Giai đoạn nào của quá trình ra quyết định phát hiện hay nhận ra một vấn đề, nhu cầu, hoặc cơ hội
@@ -473,13 +410,16 @@ Giám đốc thông tin Tiếng Anh viết tắt là gì?
 Giám sát tiến độ của những dự án HTTT lớn là vai trò ở cấp nào trong quản trị các nguồn lực thông tin?
 ---ĐA: Các nhà quản lý cấp trung gian.
 Giám sát và hiệu chỉnh các hoạt động là chức năng nào của quản trị các nguồn lực thông tin?
---ĐA: KIỂM SOÁT
+---ĐA: KIỂM SOÁT
 Hãy chọn hoạt động KHÔNG phải của phương pháp BSP lập kế hoạch HTTT
 chiến lược?
 --- Tìm hiểu thực tế và đánh giá hiện trạng
-H
+Google không hỗ trợ cách tìm kiếm nào?
+---ĐA: từ trái nghĩa
+
+H###
 Hãy chọn khái niệm đúng về Nguồn lực
-***ĐA: Nguồn lực là nguồn tái sử dụng được cung cấp để tạo ra một sản phẩm hay dịch vụ nào đó
+--- ĐA: Nguồn lực là nguồn tái sử dụng được cung cấp để tạo ra một sản phẩm hay dịch vụ nào đó
 Hãy chọn mức độ cần thiết của CSF khi lập kế hoạch kinh doanh và lập kế hoạch HTTT chiến lược?
 ---ĐA: BẮT BUỘC PHẢI SỬ DỤNG
 Hậu cần đầu ra
@@ -510,20 +450,12 @@ Hệ thống ra quyết định với tốc độ cao được phát triển nha
 --- CÓ CẤU TRÚC
 Hệ thống thông tin CAD (Computer Aided Design) được sử dụng cho chiến lược cạnh tranh nào sau đây?
 --- Chiến lược cạnh tranh đổi mới.
-Hệ thống thông tin CAD (Computer Aided Design) được sử dụng cho chiến lược cạnh tranh nào sau đây?
----ĐA: Chiến lược cạnh tranh đổi mới sản phẩm.
 Hệ thống thông tin CAM (Computer Aided Manifacturing) được sử dụng cho chiến lược cạnh tranh nào sau đây?
 --- Chiến lược cạnh tranh khác biệt hóa sản phẩm
-Hệ thống thông tin CAM (Computer Aided Manifacturing) được sử dụng cho chiến lược cạnh tranh nào sau đây?
----ĐA: Chiến lược cạnh tranh khác biệt hóa sản phẩm
-Hệ thống thông tin CRM ( Customer Relationship Management ) được sử dụng cho chiến lược cạnh tranh nào sau đây?
----ĐA: Định hướng khách hàng
 Hệ thống thông tin CRM (Customer Relationship Management) được sử dụng cho chiến lược cạnh tranh nào sau đây?
 --- ĐỊNH HƯỚNG KHÁCH HÀNG
 Hệ thống thông tin Just-In-Time được sử dụng cho chiến lược cạnh tranh nào sau đây?
 --- Chiến lược cạnh tranh thời gian
-Hệ thống thông tin Just-In-Time được sử dụng cho chiến lược cạnh tranh nào sau đây?
----ĐA: Chiến lược cạnh tranh thời gian
 Hệ thống thông tin nào cho phép quản lí đưa ra quyết định tốt hơn về tổ chức và lập kế hoạch tìm nguồn cung ứng, sản xuất và phân phối.
 --- SCM
 Hệ thống thông tin nào sau đây được sử dụng để tạo sự khác biệt trên từng sản phẩm?
@@ -541,7 +473,7 @@ Hệ thống thu tập dữ liệu từ các quá trình kinh doanh chính khác
 Hiểu biết kỹ thuật; Hiểu biết quản trị kinh doanh; hiểu biết hệ thống là yêu cầu năng lực chuyên môn cơ bản đối với chức danh nào sau đây
 ---ĐA:Chuyên viên HTTT
 Hiệu quả đầu tư cho CNTT được xem xét trên cơ sở nào?
-***ĐA: Trên cơ sở phân tích Giá trị thu được và Chi phí bỏ ra
+--- ĐA: Trên cơ sở phân tích Giá trị thu được và Chi phí bỏ ra
 Hiệu quả tác nghiệp
 --- Cải thiện cách thực hiện quy trình để hiệu quả cao hơn đối thủ cũng như những nghiệp vụ đó
 Hoạt động dịch vụ và trợ giúp hậu mãi trong chuỗi giá trị cần sự trợ giúp của HTTT nào sau đây?
@@ -564,7 +496,8 @@ HTTT nào được sử dụng để tạo ra sự khác biệt trên từng s�
 ---ĐA: Hệ thống thông tin CAM ( Computer Aided Manufacturing )
 HTTT nào sau đây giúp thiết kế sản phẩm mới, thử nghiệm và demo chúng với khách hàng?
 ---ĐA: Hệ thống thông tin CAD ( Computer Aided Design )
-I
+
+I ###
 Internet làm tăng khả năng mặc cả cho nhà cung cấp bằng cách
 --- Loại bỏ các nhà phân phối và các trung gian khác đứng giữa ọ và người
 Internet làm tăng khả năng thương lượng của khách hàng bằng cách:
@@ -575,13 +508,16 @@ ISA (Kiến trúc HTTT) là viết tắt của từ Tiếng Anh nào sau đây?
 ---ĐA: Information System Architecture
 ISA là gì?
 --- Kiến trúc HTTT
-K
+
+K###
 Kế toán viên là nguồn nhân lực thông tin nào sau đây?
---ĐA: CÁC CHUYÊN GIA KẾ TOÁN
+--- ĐA: CÁC CHUYÊN GIA KẾ TOÁN
 Kết quả của các phép thao tác dữ liệu là:
 ---ĐA: Quan hệ
 Khả năng cung cấp sản phẩm hoặc dịch vụ phù hợp cá nhân sử dụng các nguồn lực sản xuất tương tự như sản xuất số lượng lớn ( đại trà ) được gọi là:
 --- Cá thể hóa theo số đông
+Khẳng định nào sau đây là Đúng?
+---ĐA: nguồn lực thông tin gồm các quy trình kinh doanh, quy trình nghiệp vụ"
 Khẳng định nào sau đây về CSFs (các yếu tố đảm bảo thành công) là ÐÚNG?
 ---ĐA: Từ những yếu tố quan trọng nhất của sự thành công của kinh doanh --- xác định các yếu tố quan trọng nhất của HTTT.
 Khẳng định nào sau đây về CSFs (các yếu tố đảm bảo thành công) là ĐÚNG?
@@ -594,12 +530,8 @@ quá trình phát triển HTTT là đúng?
 Khẳng định nào về CSF là đúng
 --- Từ những yếu tố quan trọng nhất của sự thành công kinh doanh
 --- Xác định yếu tố quan trọng nhất của HTTT
-Khâu cuối cùng
---- Dịch vụ và trợ giúp hậu mãi
 Khâu cuối cùng trong chuỗi giá trị là:
 ---ĐA: Dịch vụ và trợ giúp hậu mãi
-Khâu đầu tiên của chuỗi giá trị
---- Hậu cần đầu vào
 Khâu đầu tiên trong chuỗi giá trị là:
 ---ĐA: Hậu cần đầu vào
 Hậu cần đầu vào
@@ -621,6 +553,8 @@ Khi mua sắm thiết bị phần cứng, cần xác định rõ điều gì?
 ---ĐA: cần xác định rõ các yêu cầu kỹ thuật của thiết bị như cấu hình, tốc độ xử lý, dung lượng bộ nhớ, kết nối mạng, độ phân giải, khả năng nâng cấp, hỗ trợ kỹ thuật và bảo hành. Ngoài ra, cần xem xét các yếu tố khác như giá cả, chất lượng sản phẩm, độ tin cậy của nhà sản xuất và độ ổn định của sản phẩm. Việc xác định rõ các yêu cầu trước khi mua sắm sẽ giúp đảm bảo chất lượng và hiệu suất của thiết bị, cũng như tránh mua phải những sản phẩm không đáp ứng được nhu cầu của doanh nghiệp.
 Khi xem xét dự án CNTT phải thực hiện từ những góc nhìn nào?
 ---ĐA: Quy trình kinh doanh và khía cạnh bền vững CNTT
+Khi đầu tư cho con người trong CNTT trong doanh nghiệp, mỗi một cán bộ, nhân viên, chuyên viên của doanh nghiệp cần phải được xem xét theo năng lực nào 
+---ĐA: Năng lực quan hệ xã hội, năng lực chuyên môn, năng lực cntt"
 Khối nào sau đây không thuộc quản trị các nguồn lực thông tin?
 ---ĐA: Quản trị chiến thuật
 Khối nào trong quản trị các nguồn lực thông tin có nhiệm vụ quản trị các nguồn lực tham gia để đạt lợi thế cạnh tranh cho tổ chức?
@@ -637,14 +571,10 @@ Khối quản trị tác nghiệp có nhiệm vụ nào sau đây?
 ---ĐA: Quản trị cấu trúc tổ chức dựa trên các chức năng và quy trình kinh doanh trong doanh nghiệp.
 Khung kiến trúc TOGAF được dùng cho các tổ chức doanh nghiệp loại nào sau đây?
 ---ĐA: Tổ chức doanh nghiệp lớn như cấp ngành, cấp tập đoàn
-Khung kiến trúc TOGAF được dùng cho các tổ chức doanh nghiệp loại nào sau đây?
----ĐA: Tổ chức doanh nghiệp lớn như cấp ngành, cấp tập đoàn
 Khung kiến trúc TOGAF được dùng cho tổ chức doanh nghiệp loại nào?
 --- Lớn như cấp ngành, cấp tập đoàn
 Khuyến khích sự trung thành của khách hàng hay nhà cung cấp như tặng danh hiệu: kim cương, nhà cung cấp vàng, đối tác chiến lược
 --- Kiềm giữ khách hàng
-Kiến trúc HTTT có bao nhiêu nhân tố chính hợp thành:
----ĐA: 6 NHÂN TỐ CHÍNH
 Kiến trúc HTTT có bao nhiêu nhân tố chính?
 --- 6
 Kiến trúc HTTT cung cấp cho nhà quản lý
@@ -655,14 +585,13 @@ HTTT.
 Kiến trúc HTTT là gì
 --- ISA - Information System Architecture: Bản kiến trúc tương lai của HTTT
 Kiến trúc HTTT là gì?
----ĐA: Là bản kế hoạch khái niệm thể hiện kiến trúc tương lai mong muốn của HTTT
-trong tổ chức.
+---ĐA: Là bản kế hoạch khái niệm thể hiện kiến trúc tương lai mong muốn của HTTT trong tổ chức.
 Kinh doanh thông minh được thiết kế để xác định các ảnh hưởng lớn của các thay đổi trong môi trường kinh doanh.
 --- phân tích môi trường
-L
+
+L###
 Lập kế hoạch chiến lược
---- danh mục đầu tư các ứng dụng dựa trên nền tảng máy tính để giúp tổ chức đạt
-mục tiêu kinh doanh
+--- danh mục đầu tư các ứng dụng dựa trên nền tảng máy tính để giúp tổ chức đạt mục tiêu kinh doanh
 Lập kế hoạch HTTT chiến lược
 --- Danh mục đầu tư các ứng dụng dựa trên nền tảng máy tính để giúp tổ chức đạt mục tiêu kinh doanh
 Lập kế hoạch kinh doanh
@@ -672,14 +601,15 @@ Lập kế hoạch kinh doanh là
 Loại hình nào của TMĐT đề cập đến các doanh nghiệp bán hàng hóa và dịch vụ điện tử cho cá nhân
 --- Thương mại điện tử B2C
 Loại khóa mật mã nào sau đây dễ bị bẻ khóa nhất?
---ĐA: 40 BIT
+--- ĐA: 40 BIT
 Loại quyết định nào mà tiêu chuẩn ra quyết định, dữ liệu thu thập và thủ tục xử lý là không rõ ràng
 --- KHÔNG CÓ CĂN CỨ
-Lợi ích chính cho người tiêu dung khi xóa bỏ trung gian là gì?
+Lợi ích chính cho người tiêu dùng khi xóa bỏ trung gian là gì?
 --- Chi phí thấp hơn
 Lợi thế của người đi đầu
 --- Chiến lược thời gian
-M
+
+M###
 Mạng xã hội như Zalo, Facebook, Insta, Twitter hỗ trợ
 --- Dịch vụ và trợ giúp hậu mãi
 Marketing & Bán hàng
@@ -687,17 +617,15 @@ Marketing & Bán hàng
 Mật khẩu có cùng độ dài thì đâu là cách đem lại mức độ bảo mật cao nhất?
 ---ĐA: Cả số và chữ, bao gồm cả chữ hoa và chữ thường, có thể thêm ký tự đặc biệt
 Method/1 chia làm mấy tầng
---- 3 tầng: Phương pháp > Kỹ thuật giúp phương pháp > Công cụ giúp kỹ thuật
+--- 3 tầng: Phương pháp > Kỹ thuật giúp phương pháp > Công cụ giúp kỹ thuật 
 Michael Porter đã đưa ra mô hình gồm bao nhiêu áp lực cạnh tranh đối với doanh nghiệp?
 --- 5 ÁP LỰC CẠNH TRANH
 Mô hình 5 áp lực cạnh tranh của Michael Porter bao gồm:
 --- A. Đối thủ trực tiếp; Đối thủ tiềm năng; Các nhà cung cấp; Sản phẩm thay thế; Khách hàng.
-Mô hình 5 áp lực cạnh tranh của Michael Porter bao gồm:
----ĐA:Đối thủ trực tiếp; đối thủ tiềm năng; các nhà cung cấp; sản phẩm thay thế; khách hàng
-Mô hình 5 áp lực cạnh tranh của Michael Porter bao gồm: Đổi thủ trực tiếp; Đối thủ tiềm năng; Các nhà cung cấp; Khách hàng và áp lực nào sau đây?
+Mô hình 5 áp lực cạnh tranh của Michael Porter bao gồm: Đối thủ trực tiếp; Đối thủ tiềm năng; Các nhà cung cấp; Khách hàng và áp lực nào sau đây?
 --- SẢN PHẨM THAY THẾ
 Mô hình 5 áp lực cạnh tranh là của ai?
---- Micheal Porter
+--- Michael Porter
 Mô hình E-R là
 --- Nhóm các thực thể có quan hệ với nhau
 Mô hình giao dịch trực tuyến B2B
@@ -758,7 +686,8 @@ Mua sắm nguồn lực thông tin nhằm mục đích gì?
 ---ĐA:Tạo mới, duy trì và bổ sung nguồn lực thông tin trong một tổ chức/doanh nghiệp
 Mức độ cần thiết của CSF khi lập kế hoạch kinh doanh và kế hoạch HTTT chiến lược
 --- Bắt buộc phải sử dụng
-N
+
+N####
 Neuman đưa thêm vào
 --- 7 chiến lược
 Neuman thêm vào dựa trên O’brien và Marakas
@@ -799,31 +728,30 @@ Những nguồn thông tin từ ngoài cần cho việc lập kế hoạch HTTT 
 Những nút chính trong sợ đồ quản trị quy trình kinh doanh bao gồm
 ***ĐA: Nút start, end, task, Decision, Merge, Split, Event
 Những thông tin cơ bản cần thiết cho công tác lập kế hoạch
-1.Sứ mệnh, tầm nhìn
-2.Chiến lược
-3.Kế hoạch chiến lược
-4.Môi trường cạnh tranh
-5.Môi trường chung
-6.Tương lai công nghệ
-7.CSF yếu tố đảm bảo thành công
+--- 	1.Sứ mệnh, tầm nhìn
+    2.Chiến lược
+    3.Kế hoạch chiến lược
+    4.Môi trường cạnh tranh
+    5.Môi trường chung
+    6.Tương lai công nghệ
+    7.CSF yếu tố đảm bảo thành công
 Những thông tin cơ bản cần thiết cho công tác lập kế hoạch HTIT chiến lược bao
 gồm:
----ĐA: Sứ mệnh; Tầm nhìn; Chiến lược; Kế hoạch chiến lược; Môi trường cạnh tranh,
-môi trường chung; Tương lai của công nghệ Yếu tố đảm bảo thành công.
+---ĐA: Sứ mệnh; Tầm nhìn; Chiến lược; Kế hoạch chiến lược; Môi trường cạnh tranh, môi trường chung; Tương lai của công nghệ Yếu tố đảm bảo thành công.
 O’brien & Marakas đã đưa ra mấy chiến lược cạnh tranh?
 --- 5 CHIẾN LƯỢC CẠNH TRANH
-P
+
+P###
 Phát biểu nào sau đây đúng?
 ---ĐA: Thông tin trợ giúp trong việc ra quyết định.
 Phát biểu nào sau đây không phải là một đặc điểm chính của các tổ chức có ảnh hưởng đến việc sử dụng các hệ thống thông tin?
 --- CHI PHÍ ĐẠI DIỆN
-Phát biểu nào sau đây không phải là một trong những yếu tố môi trường
-chính tương tác với một tổ chức và các hệ thống thông tin của tổ chức
+Phát biểu nào sau đây không phải là một trong những yếu tố môi trường chính tương tác với một tổ chức và các hệ thống thông tin của tổ chức
 --- lực lượng bán hàng
 Phát biểu nào sau đây SAI?
 ---ĐA: D. Thông tin trợ giúp trong việc ra quyết định.
 Phát biểu nào sau đây SAI?
---ĐA: CẢ 3 ĐỀU SAI ( A. Thông tin không phải là nguồn tài nguyên của doanh nghiệp. B. Thông tin là nguồn tài nguyên của doanh nghiệp nhưng không quan trọng vì nó không phải trả giá bằng tiền. C. Thông tin trong tổ chức doanh nghiệp không cần phải bảo mật vì nó không có giá trị.)
+--- ĐA: CẢ 3 ĐỀU SAI ( A. Thông tin không phải là nguồn tài nguyên của doanh nghiệp. B. Thông tin là nguồn tài nguyên của doanh nghiệp nhưng không quan trọng vì nó không phải trả giá bằng tiền. C. Thông tin trong tổ chức doanh nghiệp không cần phải bảo mật vì nó không có giá trị.)
 Phát triển hướng đối tượng có khả năng làm giảm thời gian và chi phí viết phần mềm vì
 --- CÁC ĐỐI TƯỢNG ĐƯỢC TÁI SỬ DỤNG
 Phần mềm chuỗi cung ứng có thể được phân loại thành các hệ thống chuỗi cung ứng gì?
@@ -857,26 +785,28 @@ Phương pháp nào lập kế hoạch HTTT chiến lược xem xét vấn đề
 --- Phương pháp Earl
 Porter
 ---ĐA: 5 áp lực cạnh tranh: Đối thủ trực tiếp, đối thủ tiềm năng, các nhà cung cấp, khách hàng, sản phẩm thay thẾ
-Q
+
+Q####
 Quá trình thể hiện một tập hợp các tài nguyên máy tính (chẳng hạn như năng lực điện toán hoặc lưu trữ dữ liệu) mà có thể được truy cập không bị hạn chế bởi cấu hình vật lý hoặc vị trí địa lý được gọi là
 --- Điện toán đám mây
 Quản trị các nguồn lực thông tin là gì?
 ---ĐA: Là một loạt các hoạt động bao gồm lập kế hoạch, ra quyết định, tổ chức, dẫn dắt và kiểm soát tổ chức doanh nghiệp.
 Quản trị tri thức là gì?
 ---ĐA: là một quá trình, một công cụ quản lý hiệu quả nhằm chia sẻ, thu nhận, lưu giữ, lựa chọn, sáng tạo tri thức và cung cấp đúng người, đúng nơi, đúng lúc nhằm nâng cao hiệu quả quyết định, hiệu quả thực thi và khả năng thích ứng của tổ chức.
-Quy trình kinh doanh được phân tích, đơn giản hóa và tái thiết kế lại
-trong quá trình nào sau đây
+Quy trình kinh doanh được phân tích, đơn giản hóa và tái thiết kế lại trong quá trình nào sau đây
 --- Hợp lý hóa các thủ tục
 Quy trình Kinh doanh là gì?
---ĐA: là một dãy các hoạt động / hành vi do người /máy móc thực hiện trong một môi trường tổ chức và kỹ thuật nhằm đạt được một hoặc nhiều mục tiêu kinh doanh nào đó.
+---ĐA: là một dãy các hoạt động / hành vi do người /máy móc thực hiện trong một môi trường tổ chức và kỹ thuật nhằm đạt được một hoặc nhiều mục tiêu kinh doanh nào đó.
 Quy trình quản lý dự án phần mềm
 ---ĐA: Bắt đầu dự án - Lên kế hoạch cho dự án - riển khai dự án - Giám sát và kiểm soát chất lượng dự án - Nghiệm thu và đóng dự án
 Quyết định liên quan đến việc thiết lập và vận hành một mạng nội bộ của công ty có thể được phân loại là loại quyết định gì?
 --- CÓ CẤU TRÚC
-R
+
+R####
 RD
 --- Research And Development - Nghiên cứu và phát triển
-SSS
+
+SSS###
 Sáu mục tiêu kinh doanh quan trọng của công nghệ thông tin là các sản phẩm, dịch vụ và mô hình kinh doanh mới, Thân thiện với khách hàng và nhà cung cấp; sự sống còn của DN; lợi thế cạnh tranh; tối ưu hóa hoạt động kinh doanh; và
 --- cải thiện kinh doanh
 Sự bóp méo của thông tin về nhu cầu cho một sản phẩm khi nó đi từ một thực thể liên quan tới toàn bộ chuỗi cung ứng được gọi là hiệu ứng gì?
@@ -899,11 +829,14 @@ Sử dụng HTTT CAM ( Computer Aided Manufacturing ) để thực hiện nhiệ
 ---ĐA: Tạo sự khác biệt trên từng sản phẩm
 Sử dụng HTTT CAM (Computer Aided Manifacturing) để thực hiện nhiệm vụ gì?
 --- Tạo sự khác biệt trên từng sản phẩm
-Sử dụng Internet để mua hoặc bán hàng hóa được gọi hà
-=--- Thương mại điện tử
-Sự tích hợp của video, âm thanh và tin nhắn tiếp thị vào một thông điệp tiếp thị duy nhất và sự trải nghiệm của người tiêu dung được mô tả ở tính năng nào của công nghệ thương mại điện tử?
+Sử dụng Internet để mua hoặc bán hàng hóa được gọi là
+--- Thương mại điện tử
+Sự tích hợp của video, âm thanh và tin nhắn tiếp thị vào một thông điệp tiếp thị duy nhất và sự trải nghiệm của người tiêu dùng được mô tả ở tính năng nào của công nghệ thương mại điện tử?
 --- sự phong phú
-T
+Sự hình thành tri thức liên quan đến các quá trình nhận thức phức tạp, gồm: 
+---ĐA: Tri giác, truyền đạt, liên hệ và suy luận
+
+T###
 Tác nghiệp cần sự trợ giúp của
 --- HTTT tự động hóa phân xưởng
 Tài sản phầm mềm có các loại hao mòn gì?
@@ -914,7 +847,7 @@ Tầng giữa của phương pháp Method/1 lập kế hoạch HTTT chiến lư�
 --- Tầng giữa là các kỹ thuật trợ giúp cho phương pháp.
 Tầng giữa của phương pháp Method/1 lập kế hoạch HTTT chiến lược là gì?
 ---ĐA: Tầng giữa là các kỹ thuật trợ giúp cho phương pháp.
-Tầng nào của phương pháp Method/1 lập ké lược chính là phương pháp? hoạch HTTT chiến
+Tầng nào của phương pháp Method/1 lập kế lược chính là phương pháp? hoạch HTTT chiến
 --- Tầng trên cùng
 Tầng nào của phương pháp Method/1 lập kế hoạch HTTT chiến lược là các công cụ trợ giúp các kỹ thuật?
 ---ĐA: TẦNG THẤP NHẤT
@@ -939,9 +872,9 @@ Theo Boynton và Zmud, thì CSF giúp tổ chức thực hiện nhiệm vụ gì
 ---ĐA: Giúp tổ chức lập kế hoạch HTTT.
 Theo Kimiz Dalkir (2005), một chu trình quản trị tri thức tích hợp, gồm các bước chính:
 ---ĐA:
-- Nắm bắt và/hoặc sáng tạo tri thức.
-- Chia sẻ và phổ biến tri thức.
-- Bổ sung và sử dụng tri thức.
+  - Nắm bắt và/hoặc sáng tạo tri thức.
+  - Chia sẻ và phổ biến tri thức.
+  - Bổ sung và sử dụng tri thức.
 Theo lý thuyết đại diện, công ty được nhìn nhận như là một (n)
 --- “ mối quan hệ của các hợp đồng” giữa các bên có liên quan
 Theo Mô hình STEP năng lực của nhà lãnh đạo tổ chức/doanh nghiệp cần được đánh giá trên những góc độ nào?
@@ -987,8 +920,7 @@ Trách nhiệm của người Quản trị những công nghệ mới (Manager o
 --- Dự báo xu hướng công nghệ, đánh giá và thử nghiệm những công nghệ mới.
 Trách nhiệm của người Quản trị tài khoản (Account Executive) trong tổ chức,
 doanh nghiệp là gì?
----ĐA: Quản trị mức tác nghiệp hàng ngày tất cả các mặt của HTTT trong các bộ phận
-chuyên biệt, nhà máy, các chức năng kinh doanh hoặc các đơn vị sản xuất.
+---ĐA: Quản trị mức tác nghiệp hàng ngày tất cả các mặt của HTTT trong các bộ phận chuyên biệt, nhà máy, các chức năng kinh doanh hoặc các đơn vị sản xuất.
 Trách nhiệm của người Quản trị vận hành (Operations Manager) trong tổ chức, doanh nghiệp là gì?
 ---ĐA:Theo dõi và kiểm soát các hoạt động tác nghiệp hàng ngày của trung tâm dữ liệu hoặc trung tâm máy tính.
 Trách nhiệm của người Quản trị viễn thông (Telecommunications Manager) trong tổ chức, doanh nghiệp là gì?
@@ -1026,13 +958,13 @@ Trong sơ đồ “quy trình lập kế hoạch HTTT chiến lược” CIS đ�
 Trong sơ đồ “quy trình lập kế hoạch HTTT chiến lược” CIS là gì?
 ---ĐA: TẬP THÔNG TIN QUNA TRỌNG
 Trong vòng đời phát triển hệ thống truyền thống, người dùng cuối
---- a. là các thành viên quan trọng và liên tục của ban (đội) từ giai đoạn phân tích
-ban đầu cho đến bảo trì.
+--- a. là các thành viên quan trọng và liên tục của ban (đội) từ giai đoạn phân tích ban đầu cho đến bảo trì.
 Tự động hóa phân xưởng ( Factory Floor Automation )
 --- Tác nghiệp
 Từ góc độ kinh doanh, dữ liệu thô được chuyển đổi một cách hệ thống
 --- Xử lí thông tin
-V
+
+V#####
 Vai trò của HTTT đối với chiến lược cạnh tranh chi phí thấp là gì?
 --- Cả 3 đáp án trên ( HTTT có thể giảm chi phí thực hiện nghiệp vụ - HTTT có thể giảm chi phí của các quy trình kinh doanh- HTTT có thể giảm chi phí cho khách hàng và nhà cung cấp.)
 Vai trò của HTTT đối với chiến lược cạnh tranh chi phí thấp là gì?
@@ -1096,24 +1028,17 @@ Với lựa chọn nào sau đây là mục tiêu của chuẩn hóa dữ liệu
 --- 1 và 2
 Với mô hình nào được sử dụng để mô tả sự tương tác của các lực lượng bên ngoài có ảnh hưởng đến chiến lược và khả năng cạnh tranh của một tổ chức?
 --- Mô hình lực lượng canh tranh
-X
+
+X##### 
 Xem xét dự án đầu tư CNTT ở doanh nghiệp phải tính đến điều kiện gì?
 ---ĐA: Đảm bảo sự bền vững
-Y
-Yếu tố gì cùng với vốn là đầu vào sản xuất chính mà tổ chức sử dụng để tạo ra các sản phâm và dịch vụ
+
+Y#####
+Yếu tố gì cùng với vốn là đầu vào sản xuất chính mà tổ chức sử dụng để tạo ra các sản phẩm và dịch vụ
 --- LAO ĐỘNG
-Yếu tố nào sau đây KHÔNG nằm trong mô hình 5 áp lực cạnh tranh của Michael
-Porter?
+Yếu tố nào sau đây KHÔNG nằm trong mô hình 5 áp lực cạnh tranh của Michael Porter?
 ---ĐA: NHÀ NƯỚC VÀ CƠ QUAN THUẾ
-"Sự hình thành tri thức liên quan đến các quá trình nhận thức phức tạp, gồm: 
----ĐA: Tri giác, truyền đạt, liên hệ và suy luận "
-"Khi đầu tư cho con người trong CNTT trong doanh nghiệp, mỗi một cán bộ, nhân viên, chuyên viên của doanh nghiệp cần phải được xem xét theo năng lực nào 
----ĐA: Năng lực quan hệ xã hội, năng lực chuyên môn, năng lực cntt"
-"Google không hỗ trợ cách tìm kiếm nào?
----ĐA: từ trái nghĩa"
-"Đâu là nhược điểm của các dịch vụ thư điện tử trên web (webmail)
----ĐA: Tổng dung lượng tệp tin bị giới hạn "
-"Khẳng định nào sau đây là Đúng?
----ĐA: nguồn lực thông tin gồm các quy trình kinh doanh, quy trình nghiệp vụ"
-"Các mục tiêu đi kèm với hệ thống mới là:
----ĐA: Tiến độ, Chi phí, Công nghệ, Chính sách"
+
+
+
+
