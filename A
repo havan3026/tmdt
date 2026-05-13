@@ -3,18 +3,15 @@
 --- Lập kế hoạch kinh doanh
 “ Chọn phân đoạn hẹp của thị trường, tạo chất lượng tốt nhất, tốc độ nhanh nhất và giá cả tốt nhất cho riêng thị trường đó “ là chiến lược nào?
 ---ĐA: Thị trường ngách
-“ Dữ liêu? Lý do? Mạng? Sự kiện và thời điểm? Tiến trình? “ là của bản kế hoạch nào?
+“ Dữ liệu? Lý do? Mạng? Sự kiện và thời điểm? Tiến trình? “ là của bản kế hoạch nào?
 --- Lập kế hoạch HTTT
-“ Khuyến khích sự trung thành của khách hàng hay nhà cung cấp như tặng các danh hiệu: khách hàng kim cương, nhà cung cấp vàng, đối tác chiến lược “ là chiến lược cạnh tranh gì?
+“Khuyến khích sự trung thành của khách hàng hay nhà cung cấp như tặng các danh hiệu: khách hàng kim cương, nhà cung cấp vàng, đối tác chiến lược “ là chiến lược cạnh tranh gì?
 ---ĐA: Là mở rộng năng lực sản xuất,... đa dạng hóa sản phẩm mới
 “ Lợi thế của người đi đầu “ là của chiến lược cạnh tranh nào sau đây?
 ---ĐA: Chiến lược thời gian
-“Chọn phân đoạn hẹp của thị trường, tạo chất lượng tốt nhất, tốc độ nhanh nhất và
-giá cả tốt nhất cho riêng thị trường đó” là chiến lược cạnh tranh nào sau đây?
+“Chọn phân đoạn hẹp của thị trường, tạo chất lượng tốt nhất, tốc độ nhanh nhất và giá cả tốt nhất cho riêng thị trường đó” là chiến lược cạnh tranh nào sau đây?
 --- THỊ TRƯỜNG NGÁCH
-“Khuyến khích sự trung thành của khách hàng hay nhà cung cấp như tặng các danh
-hiệu: khách hàng kim cương, nhà cung cấp vàng, đối tác chiến lược” là chiến lược
-cạnh tranh nào sau đây?
+“Khuyến khích sự trung thành của khách hàng hay nhà cung cấp như tặng các danh hiệu: khách hàng kim cương, nhà cung cấp vàng, đối tác chiến lược” là chiến lược cạnh tranh nào sau đây?
 --- Kiềm giữ khách hàng
 “Lợi thế của người đi đầu” là chiến lược cạnh tranh nào sau đây?
 --- Chiến lược thời gian
@@ -266,8 +263,7 @@ CRM
 --- Customer Relationship Management
 CRM
 --- Hệ thống quản lý quan hệ khách hàng/ Định hướng khách hàng
-CSF 
---- Critical Success Factors: yếu tố đảm bảo thành công
+CSF --- Critical Success Factors: yếu tố đảm bảo thành công
 CSF (các yếu tố đảm bảo thành công) cung cấp văn cảnh lập kế hoạch theo mấy lĩnh vực?
 ---ĐA: 3 lĩnh vực
 CSF (các yếu tố đảm bảo thành công) phụ thuộc thời gian nghĩa là:
@@ -729,12 +725,12 @@ Những nút chính trong sợ đồ quản trị quy trình kinh doanh bao gồ
 ***ĐA: Nút start, end, task, Decision, Merge, Split, Event
 Những thông tin cơ bản cần thiết cho công tác lập kế hoạch
 --- 	1.Sứ mệnh, tầm nhìn
-    2.Chiến lược
-    3.Kế hoạch chiến lược
-    4.Môi trường cạnh tranh
-    5.Môi trường chung
-    6.Tương lai công nghệ
-    7.CSF yếu tố đảm bảo thành công
+2.Chiến lược
+3.Kế hoạch chiến lược
+4.Môi trường cạnh tranh
+5.Môi trường chung
+6.Tương lai công nghệ
+7.CSF yếu tố đảm bảo thành công
 Những thông tin cơ bản cần thiết cho công tác lập kế hoạch HTIT chiến lược bao
 gồm:
 ---ĐA: Sứ mệnh; Tầm nhìn; Chiến lược; Kế hoạch chiến lược; Môi trường cạnh tranh, môi trường chung; Tương lai của công nghệ Yếu tố đảm bảo thành công.
@@ -872,9 +868,9 @@ Theo Boynton và Zmud, thì CSF giúp tổ chức thực hiện nhiệm vụ gì
 ---ĐA: Giúp tổ chức lập kế hoạch HTTT.
 Theo Kimiz Dalkir (2005), một chu trình quản trị tri thức tích hợp, gồm các bước chính:
 ---ĐA:
-  - Nắm bắt và/hoặc sáng tạo tri thức.
-  - Chia sẻ và phổ biến tri thức.
-  - Bổ sung và sử dụng tri thức.
+- Nắm bắt và/hoặc sáng tạo tri thức.
+- Chia sẻ và phổ biến tri thức.
+- Bổ sung và sử dụng tri thức.
 Theo lý thuyết đại diện, công ty được nhìn nhận như là một (n)
 --- “ mối quan hệ của các hợp đồng” giữa các bên có liên quan
 Theo Mô hình STEP năng lực của nhà lãnh đạo tổ chức/doanh nghiệp cần được đánh giá trên những góc độ nào?
@@ -1038,7 +1034,3 @@ Yếu tố gì cùng với vốn là đầu vào sản xuất chính mà tổ ch
 --- LAO ĐỘNG
 Yếu tố nào sau đây KHÔNG nằm trong mô hình 5 áp lực cạnh tranh của Michael Porter?
 ---ĐA: NHÀ NƯỚC VÀ CƠ QUAN THUẾ
-
-
-
-
